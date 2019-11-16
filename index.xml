@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>off by one</title>
+    <link>https://nrhtr.github.io/</link>
+    <description>Recent content on off by one</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    
+        <atom:link href="https://nrhtr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Articles</title>
+      <link>https://nrhtr.github.io/posts/</link>
+      <pubDate>Sat, 16 Nov 2019 23:07:40 +1100</pubDate>
+      
+      <guid>https://nrhtr.github.io/posts/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
