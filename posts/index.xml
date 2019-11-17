@@ -9,6 +9,14 @@
     
         <atom:link href="https://nrhtr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+      <title>Index Zero</title>
+      <link>https://nrhtr.github.io/posts/index-zero/</link>
+      <pubDate>Sat, 16 Nov 2019 21:48:31 +1100</pubDate>
+      
+      <guid>https://nrhtr.github.io/posts/index-zero/</guid>
+      <description>When I decided to finally do something with this domain I&amp;rsquo;ve owned for&amp;hellip; I don&amp;rsquo;t know how many years, it seemed to make sense to turn it into a blog. I&amp;rsquo;ve always wanted to write a blog.
+As you all know, the most important part of starting a blog is picking which tech stack you&amp;rsquo;re going to use. I had heard of Jekyll but after some Googling I quickly stumbled across Hugo.</description>
+    </item>
   </channel>
 </rss>
