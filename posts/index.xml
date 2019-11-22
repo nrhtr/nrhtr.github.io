@@ -10,6 +10,15 @@
         <atom:link href="https://nrhtr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Urbit rocks</title>
+      <link>https://nrhtr.github.io/posts/urbit-rocks/</link>
+      <pubDate>Fri, 22 Nov 2019 22:35:17 +1100</pubDate>
+      
+      <guid>https://nrhtr.github.io/posts/urbit-rocks/</guid>
+      <description>Urbit is the most ambitious software project you&amp;rsquo;ve probably never heard of. I don&amp;rsquo;t think there&amp;rsquo;s anything else in computing that even comes close.
+Urbit is a re-imagining of what computing could look like if you had a decentralised, encrypted, peer-to-peer network underlying everything. It&amp;rsquo;s what the Internet wanted to be when it grew up.
+Your Urbit is a virtual cloud computer that you control forever. Here are just a few reasons why Urbit is so awesome.</description>
+    </item><item>
       <title>Index Zero</title>
       <link>https://nrhtr.github.io/posts/index-zero/</link>
       <pubDate>Sat, 16 Nov 2019 21:48:31 +1100</pubDate>
