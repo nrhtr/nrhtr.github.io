@@ -15,17 +15,17 @@
       <pubDate>Fri, 22 Nov 2019 22:35:17 +1100</pubDate>
       
       <guid>https://nrhtr.github.io/posts/urbit-rocks/</guid>
-      <description>Urbit is the most ambitious software project you&amp;rsquo;ve probably never heard of. I don&amp;rsquo;t think there&amp;rsquo;s anything else in computing that even comes close.
-Urbit is a re-imagining of what computing could look like if you had a decentralised, encrypted, peer-to-peer network underlying everything. It&amp;rsquo;s what the Internet wanted to be when it grew up.
-Your Urbit is a virtual cloud computer that you control forever. Here are just a few reasons why Urbit is so awesome.</description>
+      <description>&lt;p&gt;Urbit is the most ambitious software project you&amp;rsquo;ve probably never heard of. I don&amp;rsquo;t think there&amp;rsquo;s anything else in computing that even comes close.&lt;/p&gt;
+&lt;p&gt;Urbit is a re-imagining of what computing could look like if you had a decentralised, encrypted, peer-to-peer network underlying everything. It&amp;rsquo;s what the Internet wanted to be when it grew up.&lt;/p&gt;
+&lt;p&gt;Your Urbit is a virtual cloud computer that you control forever. Here are just a few reasons why Urbit is so awesome.&lt;/p&gt;</description>
     </item><item>
       <title>Index Zero</title>
       <link>https://nrhtr.github.io/posts/index-zero/</link>
       <pubDate>Sat, 16 Nov 2019 21:48:31 +1100</pubDate>
       
       <guid>https://nrhtr.github.io/posts/index-zero/</guid>
-      <description>When I decided to finally do something with this domain I&amp;rsquo;ve owned for&amp;hellip; I don&amp;rsquo;t know how many years, it seemed to make sense to turn it into a blog. I&amp;rsquo;ve always wanted to write a blog.
-As you all know, the most important part of starting a blog is picking which tech stack you&amp;rsquo;re going to use. I had heard of Jekyll but after some Googling I quickly stumbled across Hugo.</description>
+      <description>&lt;p&gt;When I decided to finally do something with this domain I&amp;rsquo;ve owned for&amp;hellip; I don&amp;rsquo;t know how many years, it seemed to make sense to turn it into a blog. I&amp;rsquo;ve always wanted to write a blog.&lt;/p&gt;
+&lt;p&gt;As you all know, the most important part of starting a blog is picking which tech stack you&amp;rsquo;re going to use. I had heard of Jekyll but after some Googling I quickly stumbled across Hugo. It&amp;rsquo;s written in Go which automatically makes it 10x cooler. I&amp;rsquo;m sure somebody even cooler has rewritten it in Rust by now.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
